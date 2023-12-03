@@ -3,6 +3,7 @@ import chalk from 'chalk';
 
 export async function day1a(dataPath?: string) {
   const data = await readData(dataPath);
+  console.log(data);
   return 0;
 }
 
