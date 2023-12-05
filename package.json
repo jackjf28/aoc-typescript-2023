@@ -106,6 +106,7 @@
   },
   "private": true,
   "dependencies": {
+    "arktype": "^1.0.28-alpha",
     "chalk": "latest",
     "ts-aoc-starter": "1.0.4"
   },
